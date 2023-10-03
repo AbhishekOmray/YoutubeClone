@@ -14,9 +14,7 @@ Created a clone of it with the functionalities of the like original One.
 
 ## Video page
 
-
-![image](https://github.com/AbhishekOmray/YoutubeClone/assets/79918608/3908590a-44bb-49d7-ac24-ae9274bb79fc)
-
+![image](https://github.com/AbhishekOmray/YoutubeClone/assets/79918608/e5bf4bc6-f9d1-42b6-a2f6-f5ae1b3a17a8)
 
 ## Tech Stack 
 - **HTML**
